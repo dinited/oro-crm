@@ -1,0 +1,11 @@
+*
+!composer.json
+!composer.lock
+!docker-sync.yml
+!docker-compose.yml
+!docker-compose-demo.yml
+!docker-compose-dev.yml
+!Makefile
+!.composer/auth/.gitkeep
+!.composer/cache/.gitkeep
+!config/parameters.yml.demo
